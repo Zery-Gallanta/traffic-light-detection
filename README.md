@@ -10,11 +10,11 @@ Sistem deteksi dan penghitungan kendaraan (mobil & motor) pada video traffic lig
 
 ## 👥 Team
 **Group-01**
-- Marcellus Geraldio
-- Rizki Firdaus
+- Marcellus Geraldio F.
+- Rizki Firdaus Purnama
 - Marvin Luckyanto
 - Zery Gallanta Sasongko
-- Aziz Calim
+- Aziz Faadhil
 
 ---
 
