@@ -13,7 +13,7 @@ Sistem deteksi dan penghitungan kendaraan (mobil & motor) pada video traffic lig
 - Marcellus Geraldio
 - Rizki Firdaus
 - Marvin Luckyanto
-- Zery Galanta
+- Zery Gallanta Sasongko
 - Aziz Calim
 
 ---
