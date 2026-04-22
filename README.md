@@ -101,9 +101,9 @@ traffic-light-detection/
 ├── output/
 │   └── result.mp4
 ── assets/
-    ├── before.jpg     # Video asli / tanpa deteksi
-    ├── after.jpg      # Hasil deteksi dengan overlay
-    └── demo.gif       # (Optional) Animasi pendekf
+    ├── before.jpg
+    ├── after.jpg
+    └── edge-detection.jpg
 ```
 
 ---
