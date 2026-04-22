@@ -132,9 +132,3 @@ traffic-light-detection/
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for details.
-
----
-
-<div align="center">
-Made with ❤️ by Group-01
-</div>
