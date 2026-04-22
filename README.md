@@ -130,6 +130,18 @@ traffic-light-detection/
 - Color coding: 🔵 Car | 🟢 Motorcycle | 🔴 Other
 
 ---
+## 🖼️ Demo
+
+### Before
+![Before](assets/before.jpg)
+
+### After
+![After](assets/after.jpg)
+
+### Video Demo
+!edge-detection(assets/edge-detection.jpg)
+
+---
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for details.
