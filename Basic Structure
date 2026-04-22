@@ -1,0 +1,3 @@
+src/main.py          # Convert notebook ke .py (opsional)
+data/zones.json      # Simpan koordinat zona
+output/.gitkeep      # Folder kosong untuk hasil
