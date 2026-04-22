@@ -123,13 +123,13 @@ traffic-light-detection/
 ## 🖼️ Demo
 
 ### Before
-![Before](assets/before.jpg)
+![Before](assets/Before.jpg)
 
 ### After
-![After](assets/after.jpg)
+![After](assets/After.jpg)
 
 ### Video Demo
-!edge-detection(assets/edge-detection.jpg)
+![edge-detection](assets/edge-detection.jpg)
 
 ---
 
