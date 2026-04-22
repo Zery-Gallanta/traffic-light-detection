@@ -84,23 +84,13 @@ python src/counting.py --config data/zones_config.json
 ##  Project Structure
 ```
 traffic-light-detection/
-├── README.md
-├── requirements.txt
-├── LICENSE
-├── main.ipynb
-├── src/
-│   ├── preprocessing.py
-│   ├── detection.py
-│   └── counting.py
-├── data/
-│   ├── dataset.yaml
-│   ├── zones_config.json
-│   └── video.mp4
-├── models/
-│   ── yolov9c.pt
-├── output/
-│   └── result.mp4
-── assets/
+├── README.md              # Dokumentasi ini
+├── requirements.txt       # Dependencies Python
+├── main.ipynb             # Script utama (Preprocessing -> Train -> Detection)
+├── args.yaml              # Hyperparameters training YOLOv9
+├── .gitignore             # Config Git
+├── LICENSE                # MIT License
+└── assets/
     ├── before.jpg
     ├── after.jpg
     └── edge-detection.jpg
